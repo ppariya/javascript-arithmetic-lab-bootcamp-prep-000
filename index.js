@@ -25,9 +25,9 @@ function dec(a) {
 }
 
 function makeInt(a) {
-  return parseInt(a, 10)
+  return parseInt('a', 10)
 }
 
 function perserveDecimal(a) {
-  return parseInt(a)
+  return parseInt('a')
 }
