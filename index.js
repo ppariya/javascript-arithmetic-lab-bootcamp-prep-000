@@ -15,11 +15,11 @@ function divide(a, b) {
 }
 
 function inc(a) {
-  a++
+  a += 1
   return a
 }
 
 function dec(a) {
-  a--
+  a -= 1
   return a
 }
